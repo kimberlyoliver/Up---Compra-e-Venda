@@ -226,6 +226,7 @@ body{
 }
 
 .final{
+    margin-top: 100vh;
     height: auto;     
 }
 .fim{
@@ -325,7 +326,13 @@ body{
     margin-bottom: 5vh;    
     font-family: 'Roboto';
     font-size: 20px;
-    padding-top: 60vh;
+    padding-top: 80vh;
     text-align: center;
-    color: #6e1d5a; 
+    color: #6e1d5a;
 }
+
+.nunca{
+    margin-top: 25vh;
+    height: 100vh;     
+}
+
